@@ -1,2 +1,2 @@
 # quantsFrontopolar
-backtests for Frontopolar projects 
+backtests for Frontopolar project
